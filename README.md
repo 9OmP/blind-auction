@@ -69,10 +69,10 @@ Follow the on-screen prompts:
 When there are no more bidders, the game will determine the winner automatically.
 The winner with the highest bid will be revealed.
 
-### Contributing
+## Contributing
 If you would like to contribute to this project, please read our Contribution Guide for detailed instructions.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Thank you for playing the Blind Auction Game in Python! If you have any questions or encounter any issues, feel free to open an issue.
