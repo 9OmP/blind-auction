@@ -54,7 +54,7 @@ Make sure you have Python installed on your computer. You can download it from t
 
 Run the game script:
 
-    '''
+    ```
     python blind_auction.py
 
 Follow the on-screen prompts:
