@@ -42,7 +42,7 @@ Make sure you have Python installed on your computer. You can download it from t
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/blind-auction.git
+   git clone https://github.com/9OmP/blind-auction.git
 
 2. Change into the project directory:
     ```
